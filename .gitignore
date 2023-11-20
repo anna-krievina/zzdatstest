@@ -1,7 +1,7 @@
 /.vs
 /node_modules
-/ZZDatsTest.Csv/obj/Debug/net6.0
 /ZZDatsTest.Csv/obj
-/ZZDatsTest.LoadDb/bin/Debug/net6.0
-/ZZDatsTest.LoadDb/obj/Debug/net6.0
+/ZZDatsTest.Csv/obj
+/ZZDatsTest.LoadDb/bin
+/ZZDatsTest.LoadDb/obj
 /ZZDatsTest.LoadDb/obj
