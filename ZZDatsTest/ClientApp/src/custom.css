@@ -1,0 +1,14 @@
+/* Provide sufficient contrast against white background */
+a {
+    color: #116e2e;
+    font-size: larger;
+}
+
+.overflow-div {
+    height: 85vh;
+    overflow: scroll;
+}
+
+table {
+    cursor: default;
+}
